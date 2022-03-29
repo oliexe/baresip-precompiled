@@ -1,0 +1,366 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tutpro.baresip"
+4    android:versionCode="209"
+5    android:versionName="43.1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+11-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:6:5-76
+11-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:6:22-73
+12    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+12-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:7:5-77
+12-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:7:22-74
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:8:5-67
+13-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:8:22-64
+14    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+14-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:9:5-71
+14-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:9:22-68
+15    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+15-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:10:5-80
+15-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:10:22-77
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:11:5-79
+16-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:11:22-76
+17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+17-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:12:5-76
+17-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:12:22-73
+18    <uses-permission android:name="android.permission.WAKE_LOCK" />
+18-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:13:5-68
+18-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:13:22-65
+19    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+19-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:14:5-75
+19-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:14:22-72
+20    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+20-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:15:5-80
+20-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:15:22-77
+21    <uses-permission
+21-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:16:5-19:40
+22        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+22-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:17:9-65
+23        android:maxSdkVersion="28" />
+23-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:18:9-35
+24    <uses-permission android:name="android.permission.READ_CONTACTS" />
+24-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:20:5-72
+24-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:20:22-69
+25    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+25-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:21:5-73
+25-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:21:22-70
+26    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+26-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:22:5-81
+26-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:22:22-78
+27    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+27-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:23:5-81
+27-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:23:22-78
+28    <uses-permission android:name="android.permission.VIBRATE" />
+28-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:24:5-66
+28-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:24:22-63
+29    <uses-permission android:name="android.permission.BLUETOOTH" />
+29-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:25:5-68
+29-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:25:22-65
+30    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+30-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:26:5-75
+30-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:26:22-72
+31    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+31-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:27:5-78
+31-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:27:22-75
+32
+33    <uses-feature
+33-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:29:5-31:36
+34        android:name="android.hardware.telephony"
+34-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:30:9-50
+35        android:required="false" />
+35-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:31:9-33
+36    <uses-feature
+36-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:32:5-34:36
+37        android:name="android.hardware.camera"
+37-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:33:9-47
+38        android:required="false" />
+38-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:34:9-33
+39
+40    <application
+40-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:36:5-164:19
+41        android:allowBackup="false"
+41-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:37:9-36
+42        android:debuggable="true"
+43        android:icon="@mipmap/ic_launcher"
+43-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:38:9-43
+44        android:installLocation="internalOnly"
+44-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:39:9-47
+45        android:label="@string/app_name"
+45-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:40:9-41
+46        android:roundIcon="@mipmap/ic_launcher"
+46-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:41:9-48
+47        android:supportsRtl="true"
+47-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:42:9-35
+48        android:testOnly="true"
+49        android:theme="@style/AppTheme" >
+49-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:43:9-40
+50        <activity
+50-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:45:9-67:20
+51            android:name="com.tutpro.baresip.MainActivity"
+51-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:46:13-41
+52            android:configChanges="orientation|keyboardHidden|screenSize"
+52-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:47:13-74
+53            android:exported="true"
+53-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:48:13-36
+54            android:launchMode="singleTask"
+54-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:49:13-44
+55            android:theme="@style/AppTheme.Main"
+55-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:50:13-49
+56            android:windowSoftInputMode="adjustResize" >
+56-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:51:13-55
+57            <intent-filter>
+57-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:52:13-56:29
+58                <action android:name="android.intent.action.MAIN" />
+58-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:53:17-69
+58-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:53:25-66
+59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:55:17-77
+60-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:55:27-74
+61            </intent-filter>
+62            <intent-filter>
+62-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:57:13-66:29
+63                <action android:name="android.intent.action.DIAL" />
+63-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:58:17-69
+63-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:58:25-66
+64                <action android:name="android.intent.action.CALL" />
+64-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:59:17-69
+64-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:59:25-66
+65                <action android:name="android.intent.action.CALL_PRIVILEGED" />
+65-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:60:17-80
+65-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:60:25-77
+66
+67                <category android:name="android.intent.category.DEFAULT" />
+67-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:62:17-76
+67-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:62:27-73
+68
+69                <data android:scheme="tel" />
+69-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:64:17-46
+69-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:64:23-43
+70                <data android:scheme="sip" />
+70-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:64:17-46
+70-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:64:23-43
+71            </intent-filter>
+72        </activity>
+73        <activity
+73-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:68:9-73:20
+74            android:name="com.tutpro.baresip.AccountsActivity"
+74-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:69:13-45
+75            android:configChanges="orientation|keyboardHidden|screenSize"
+75-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:70:13-74
+76            android:label="@string/accounts"
+76-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:71:13-45
+77            android:parentActivityName="com.tutpro.baresip.MainActivity" >
+77-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:72:13-55
+78        </activity>
+79        <activity
+79-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:74:9-78:20
+80            android:name="com.tutpro.baresip.AccountActivity"
+80-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:75:13-44
+81            android:configChanges="orientation|keyboardHidden|screenSize"
+81-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:76:13-74
+82            android:label="@string/account" >
+82-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:77:13-44
+83        </activity>
+84        <activity
+84-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:79:9-84:20
+85            android:name="com.tutpro.baresip.CodecsActivity"
+85-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:80:13-43
+86            android:configChanges="orientation|keyboardHidden|screenSize"
+86-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:81:13-74
+87            android:label="@string/codecs"
+87-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:82:13-43
+88            android:parentActivityName="com.tutpro.baresip.AccountActivity" >
+88-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:83:13-58
+89        </activity>
+90        <activity
+90-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:85:9-91:20
+91            android:name="com.tutpro.baresip.ContactsActivity"
+91-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:86:13-45
+92            android:configChanges="orientation|keyboardHidden|screenSize"
+92-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:87:13-74
+93            android:label="@string/contacts"
+93-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:88:13-45
+94            android:parentActivityName="com.tutpro.baresip.MainActivity"
+94-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:89:13-55
+95            android:windowSoftInputMode="adjustPan" >
+95-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:90:13-52
+96        </activity>
+97        <activity
+97-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:92:9-97:20
+98            android:name="com.tutpro.baresip.ContactActivity"
+98-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:93:13-44
+99            android:configChanges="orientation|keyboardHidden|screenSize"
+99-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:94:13-74
+100            android:label="@string/contact"
+100-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:95:13-44
+101            android:parentActivityName="com.tutpro.baresip.ContactsActivity" >
+101-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:96:13-59
+102        </activity>
+103        <activity
+103-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:98:9-103:20
+104            android:name="com.tutpro.baresip.AndroidContactActivity"
+104-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:99:13-51
+105            android:configChanges="orientation|keyboardHidden|screenSize"
+105-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:100:13-74
+106            android:label="@string/contact"
+106-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:101:13-44
+107            android:parentActivityName="com.tutpro.baresip.ContactsActivity" >
+107-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:102:13-59
+108        </activity>
+109        <activity
+109-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:104:9-109:20
+110            android:name="com.tutpro.baresip.ConfigActivity"
+110-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:105:13-43
+111            android:configChanges="orientation|keyboardHidden|screenSize"
+111-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:106:13-74
+112            android:label="@string/configuration"
+112-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:107:13-50
+113            android:parentActivityName="com.tutpro.baresip.MainActivity" >
+113-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:108:13-55
+114        </activity>
+115        <activity
+115-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:110:9-115:20
+116            android:name="com.tutpro.baresip.AudioActivity"
+116-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:111:13-42
+117            android:configChanges="orientation|keyboardHidden|screenSize"
+117-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:112:13-74
+118            android:label="@string/audio_settings"
+118-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:113:13-51
+119            android:parentActivityName="com.tutpro.baresip.ConfigActivity" >
+119-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:114:13-57
+120        </activity>
+121        <activity
+121-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:116:9-121:20
+122            android:name="com.tutpro.baresip.CallsActivity"
+122-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:117:13-42
+123            android:configChanges="orientation|keyboardHidden|screenSize"
+123-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:118:13-74
+124            android:label="@string/call_history"
+124-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:119:13-49
+125            android:parentActivityName="com.tutpro.baresip.MainActivity" >
+125-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:120:13-55
+126        </activity>
+127        <activity
+127-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:122:9-127:20
+128            android:name="com.tutpro.baresip.CallDetailsActivity"
+128-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:123:13-48
+129            android:configChanges="orientation|keyboardHidden|screenSize"
+129-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:124:13-74
+130            android:label="@string/call_details"
+130-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:125:13-49
+131            android:parentActivityName="com.tutpro.baresip.CallsActivity" >
+131-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:126:13-56
+132        </activity>
+133        <activity
+133-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:128:9-133:20
+134            android:name="com.tutpro.baresip.ChatsActivity"
+134-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:129:13-42
+135            android:configChanges="orientation|keyboardHidden|screenSize"
+135-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:130:13-74
+136            android:label="@string/chats"
+136-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:131:13-42
+137            android:parentActivityName="com.tutpro.baresip.MainActivity" >
+137-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:132:13-55
+138        </activity>
+139        <activity
+139-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:134:9-138:20
+140            android:name="com.tutpro.baresip.ChatActivity"
+140-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:135:13-41
+141            android:configChanges="orientation|keyboardHidden|screenSize"
+141-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:136:13-74
+142            android:label="@string/chat" >
+142-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:137:13-41
+143        </activity>
+144        <activity
+144-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:139:9-144:20
+145            android:name="com.tutpro.baresip.AboutActivity"
+145-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:140:13-42
+146            android:configChanges="orientation|keyboardHidden|screenSize"
+146-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:141:13-74
+147            android:label="@string/about_title"
+147-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:142:13-48
+148            android:parentActivityName="com.tutpro.baresip.MainActivity" >
+148-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:143:13-55
+149        </activity>
+150
+151        <service
+151-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:146:9-152:19
+152            android:name="com.tutpro.baresip.BaresipService"
+152-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:147:13-43
+153            android:enabled="true"
+153-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:148:13-35
+154            android:foregroundServiceType="microphone|phoneCall"
+154-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:149:13-65
+155            android:permission="android.permission.FOREGROUND_SERVICE"
+155-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:150:13-71
+156            android:stopWithTask="false" >
+156-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:151:13-41
+157        </service>
+158
+159        <receiver
+159-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:154:9-163:20
+160            android:name="com.tutpro.baresip.BootCompletedReceiver"
+160-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:155:13-50
+161            android:enabled="true"
+161-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:156:13-35
+162            android:exported="true"
+162-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:157:13-36
+163            android:permission="android.permission.RECEIVE_BOOT_COMPLETED" >
+163-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:158:13-75
+164            <intent-filter>
+164-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:159:13-162:29
+165                <action android:name="android.intent.action.BOOT_COMPLETED" />
+165-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:160:17-79
+165-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:160:25-76
+166                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+166-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:161:17-82
+166-->/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/AndroidManifest.xml:161:25-79
+167            </intent-filter>
+168        </receiver>
+169
+170        <uses-library
+170-->[androidx.window:window:1.0.0] /Users/ondrejrehacek/.gradle/caches/transforms-3/1059f126906fc174061bb0dd50a3f15f/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+171            android:name="androidx.window.extensions"
+171-->[androidx.window:window:1.0.0] /Users/ondrejrehacek/.gradle/caches/transforms-3/1059f126906fc174061bb0dd50a3f15f/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+172            android:required="false" />
+172-->[androidx.window:window:1.0.0] /Users/ondrejrehacek/.gradle/caches/transforms-3/1059f126906fc174061bb0dd50a3f15f/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+173        <uses-library
+173-->[androidx.window:window:1.0.0] /Users/ondrejrehacek/.gradle/caches/transforms-3/1059f126906fc174061bb0dd50a3f15f/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+174            android:name="androidx.window.sidecar"
+174-->[androidx.window:window:1.0.0] /Users/ondrejrehacek/.gradle/caches/transforms-3/1059f126906fc174061bb0dd50a3f15f/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+175            android:required="false" />
+175-->[androidx.window:window:1.0.0] /Users/ondrejrehacek/.gradle/caches/transforms-3/1059f126906fc174061bb0dd50a3f15f/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+176
+177        <provider
+177-->[androidx.emoji2:emoji2:1.0.0] /Users/ondrejrehacek/.gradle/caches/transforms-3/914af07b2490dc878f01326ae2aa49a5/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+178            android:name="androidx.startup.InitializationProvider"
+178-->[androidx.emoji2:emoji2:1.0.0] /Users/ondrejrehacek/.gradle/caches/transforms-3/914af07b2490dc878f01326ae2aa49a5/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+179            android:authorities="com.tutpro.baresip.androidx-startup"
+179-->[androidx.emoji2:emoji2:1.0.0] /Users/ondrejrehacek/.gradle/caches/transforms-3/914af07b2490dc878f01326ae2aa49a5/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+180            android:exported="false" >
+180-->[androidx.emoji2:emoji2:1.0.0] /Users/ondrejrehacek/.gradle/caches/transforms-3/914af07b2490dc878f01326ae2aa49a5/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+181            <meta-data
+181-->[androidx.emoji2:emoji2:1.0.0] /Users/ondrejrehacek/.gradle/caches/transforms-3/914af07b2490dc878f01326ae2aa49a5/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+182                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+182-->[androidx.emoji2:emoji2:1.0.0] /Users/ondrejrehacek/.gradle/caches/transforms-3/914af07b2490dc878f01326ae2aa49a5/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+183                android:value="androidx.startup" />
+183-->[androidx.emoji2:emoji2:1.0.0] /Users/ondrejrehacek/.gradle/caches/transforms-3/914af07b2490dc878f01326ae2aa49a5/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+184            <meta-data
+184-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/ondrejrehacek/.gradle/caches/transforms-3/bf8d388157906b2f93596545fa1cdd75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+185                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+185-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/ondrejrehacek/.gradle/caches/transforms-3/bf8d388157906b2f93596545fa1cdd75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+186                android:value="androidx.startup" />
+186-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/ondrejrehacek/.gradle/caches/transforms-3/bf8d388157906b2f93596545fa1cdd75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+187        </provider>
+188    </application>
+189
+190</manifest>

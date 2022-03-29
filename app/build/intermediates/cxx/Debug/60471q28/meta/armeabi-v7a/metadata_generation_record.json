@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: armeabi-v7a",
+    "file_": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1502645216
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/ondrejrehacek/Git/Acrios/zptvox/app/.cxx/Debug/60471q28/armeabi-v7a/android_gradle_build.json due to:",
+    "file_": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 258610850
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /Users/ondrejrehacek/Git/Acrios/zptvox/app/.cxx/Debug/60471q28/armeabi-v7a/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 358847558
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /Users/ondrejrehacek/Git/Acrios/zptvox/app/.cxx/Debug/60471q28/armeabi-v7a/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1113129220
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1662203280
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/Users/ondrejrehacek/Git/Acrios/zptvox/app/.cxx/Debug/60471q28/armeabi-v7a\u0027",
+    "file_": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1432025197
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/Users/ondrejrehacek/Git/Acrios/zptvox/app/.cxx/Debug/60471q28/armeabi-v7a\u0027",
+    "file_": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2099917063
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : /Users/ondrejrehacek/Library/Android/sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/cpp\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003d/Users/ondrejrehacek/Library/Android/sdk/ndk/23.1.7779620\n-DCMAKE_ANDROID_NDK\u003d/Users/ondrejrehacek/Library/Android/sdk/ndk/23.1.7779620\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/ondrejrehacek/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d/Users/ondrejrehacek/Library/Android/sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_C_FLAGS\u003d-DHAVE_INTTYPES_H\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/cxx/Debug/60471q28/obj/armeabi-v7a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/cxx/Debug/60471q28/obj/armeabi-v7a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-B/Users/ondrejrehacek/Git/Acrios/zptvox/app/.cxx/Debug/60471q28/armeabi-v7a\n-GNinja\njvmArgs : \n\n",
+    "file_": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1820028262
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : /Users/ondrejrehacek/Library/Android/sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/cpp\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003d/Users/ondrejrehacek/Library/Android/sdk/ndk/23.1.7779620\n-DCMAKE_ANDROID_NDK\u003d/Users/ondrejrehacek/Library/Android/sdk/ndk/23.1.7779620\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/ondrejrehacek/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d/Users/ondrejrehacek/Library/Android/sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_C_FLAGS\u003d-DHAVE_INTTYPES_H\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/cxx/Debug/60471q28/obj/armeabi-v7a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/cxx/Debug/60471q28/obj/armeabi-v7a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-B/Users/ondrejrehacek/Git/Acrios/zptvox/app/.cxx/Debug/60471q28/armeabi-v7a\n-GNinja\njvmArgs : \n\n",
+    "file_": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 277524709
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /Users/ondrejrehacek/Git/Acrios/zptvox/app/.cxx/Debug/60471q28/armeabi-v7a/compile_commands.json.bin normally",
+    "file_": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 590338284
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1349857029
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /Users/ondrejrehacek/Git/Acrios/zptvox/app/.cxx/Debug/60471q28/armeabi-v7a/metadata_generation_command.txt",
+    "file_": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 125598764
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1007037183
+  }
+]

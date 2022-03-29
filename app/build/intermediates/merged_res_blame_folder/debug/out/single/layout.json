@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_accounts.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_accounts.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/account_spinner.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/account_spinner.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/call_detail_row.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/call_detail_row.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/contact_row.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/contact_row.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/message.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/android_uri_row.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/android_uri_row.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_audio.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_audio.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/status_notification.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/status_notification.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_calls.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_calls.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_android_contact.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_android_contact.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_chat.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/alert_title.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/alert_title.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/chat_row.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/chat_row.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_contact.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_contact.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_config.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_config.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_account.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_account.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_contacts.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_contacts.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_codecs.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_codecs.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_call_details.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_call_details.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_about.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/password_dialog.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/password_dialog.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_chats.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_chats.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/account_row.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/account_row.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/call_transfer_dialog.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/call_transfer_dialog.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/call_row.xml",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/call_row.xml"
+    }
+]

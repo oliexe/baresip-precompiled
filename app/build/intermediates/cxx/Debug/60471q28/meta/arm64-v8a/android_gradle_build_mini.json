@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/ondrejrehacek/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/ondrejrehacek/Git/Acrios/zptvox/app/.cxx/Debug/60471q28/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/ondrejrehacek/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/ondrejrehacek/Git/Acrios/zptvox/app/.cxx/Debug/60471q28/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "baresip::@6890427a1f51a3e7e1df": {
+      "artifactName": "baresip",
+      "abi": "arm64-v8a",
+      "output": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/cxx/Debug/60471q28/obj/arm64-v8a/libbaresip.so",
+      "runtimeFiles": []
+    }
+  }
+}

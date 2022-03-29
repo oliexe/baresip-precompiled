@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d notificación nueva</item>
+    <item quantity="other">%d notificaciones nuevas</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Ir a inicio"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Hecho"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESACTIVADO"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ACTIVADO"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Suprimir"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Intro"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Función +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Mayús +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Espacio"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menú +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Consulta de búsqueda"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Compartir con <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Ocultar"</string>
+    <string name="about">Acerca de</string>
+    <string name="about_text">&lt;h1>Agente de usuario SIP basado en la librería baresip&lt;/h1> &lt;p>Juha Heinanen &amp;lt;jh@tutpro.com&amp;gt;&lt;/p> &lt;p>Versión %1$s&lt;/p> &lt;h2>Consejos de uso&lt;/h2> &lt;ul> &lt;li>En los Ajustes de aplicaciones y notificaciones de Android, permita las notificaciones de la aplicación baresip.&lt;/li> &lt;li>Compruebe que los valores por defecto en los Ajustes de baresip se ajustan a sus necesidades (toque los títulos de los elementos para obtener ayuda).&lt;/li> &lt;li>Después, en Cuentas, cree una o más cuentas (de nuevo toque los títulos de los elementos para obtener ayuda).&lt;/li> &lt;li>Una nueva cuenta puede configurarse parcialmente de forma automática. Consulte &lt;a href=https://github.com/juha-h/baresip-studio/wiki/Automatic-Account-Configuration>Wiki&lt;/a> para obtener más información.&lt;/li> &lt;li>El estado de registro de una cuenta se muestra con un punto de color: verde (registro realizado con éxito, amarillo (registro en curso), rojo (registro fallido), blanco (registro no activado).&lt;/li> &lt;li>Tocar el punto lleva directamente a la configuración de la cuenta.&lt;/li> &lt;li>El gesto de deslizar hacia abajo provoca un nuevo registro de la cuenta mostrada actualmente.&lt;/li> &lt;li>El gesto de deslizar hacia la izquierda/derecha alterna entre las cuentas.&lt;/li> &lt;li>El icono de la parte superior de la pantalla principal activa el altavoz.&lt;/li> &lt;li>Los iconos de la parte inferior de la pantalla principal llevan al buzón de voz (si se ha configurado el URI del buzón de voz para la cuenta), a los contactos, a los mensajes y al historial de llamadas, y permiten alternar entre el teclado numérico y el alfanumérico.&lt;/li> &lt;li>Se puede volver a seleccionar el interlocutor de la llamada anterior tocando el icono de llamada cuando Callee está vacío.&lt;/li> &lt;li>Los interlocutores de las llamadas y los mensajes se pueden añadir a los contactos mediante toques prolongados.&lt;/li> &lt;li>También se pueden utilizar toques prolongados para eliminar llamadas, chats, mensajes y contactos.&lt;/li> &lt;li>Tocar/tocar prolongadamente el icono del contacto puede utilizarse para instalar/eliminar el avatar de la imagen.&lt;/li> &lt;/ul> &lt;h2>Problemas conocidos&lt;/h2> &lt;ul> &lt;li>Debido a las limitaciones de las bibliotecas subyacentes, baresip no admite actualmente múltiples interfaces de red activas simultáneamente. El orden de preferencia de las interfaces de red activas es VPN, Internet, otra.&lt;/li> &lt;/ul> &lt;h2>Código fuente&lt;/h2> El código fuente está disponible en &lt;a href=https://github.com/juha-h/baresip-studio>GitHub&lt;/a>, donde también se pueden reportar problemas. &lt;h2>Licencias&lt;/h2> &lt;ul> &lt;li>&lt;b>BSD-3-Clause&lt;/b> excepto las siguientes:&lt;/li> &lt;li>&lt;b>Apache 2.0&lt;/b> códec AMR y seguridad TLS&lt;/li> &lt;li>&lt;b>LGPL 2.1&lt;/b> G.722 y G.726&lt;/li> &lt;li>&lt;b>AGPLv4&lt;/b> cifrado de medios ZRTP&lt;/li> &lt;li>&lt;b>GNU GPLv3&lt;/b> códec G.729&lt;/li> &lt;/ul></string>
+    <string name="about_text_plus">&lt;h1>Agente de usuario SIP basado en la librería baresip+ con videollamadas&lt;/h1> &lt;p>Juha Heinanen &amp;lt;jh@tutpro.com&amp;gt;&lt;/p> &lt;p>Versión %1$s&lt;/p> &lt;h2>Consejos de uso&lt;/h2> &lt;ul> &lt;li>En los Ajustes de aplicaciones y notificaciones de Android, permita las notificaciones de la aplicación baresip+.&lt;/li> &lt;li>Compruebe que los valores por defecto en los Ajustes de baresip+ se ajustan a sus necesidades (toque los títulos de los elementos para obtener ayuda).&lt;/li> &lt;li>Después, en Cuentas, cree una o más cuentas (de nuevo toque los títulos de los elementos para obtener ayuda).&lt;/li> &lt;li>Una nueva cuenta puede configurarse parcialmente de forma automática. Consulte &lt;a href=https://github.com/juha-h/baresip-studio/wiki/Automatic-Account-Configuration>Wiki&lt;/a> para obtener más información.&lt;/li> &lt;li>El estado de registro de una cuenta se muestra con un punto de color: verde (registro realizado con éxito, amarillo (registro en curso), rojo (registro fallido), blanco (registro no activado).&lt;/li> &lt;li>Tocar el punto lleva directamente a la configuración de la cuenta.&lt;/li> &lt;li>El gesto de deslizar hacia abajo provoca un nuevo registro de la cuenta mostrada actualmente.&lt;/li> &lt;li>El gesto de deslizar hacia la izquierda/derecha alterna entre las cuentas.&lt;/li> &lt;li>El icono de la parte superior de la pantalla principal activa el altavoz.&lt;/li> &lt;li>Los iconos de la parte inferior de la pantalla principal llevan al buzón de voz (si se ha configurado el URI del buzón de voz para la cuenta), a los contactos, a los mensajes y al historial de llamadas, y permiten alternar entre el teclado numérico y el alfanumérico.&lt;/li> &lt;li>Se puede volver a seleccionar el interlocutor de la llamada anterior tocando el icono de llamada cuando Callee está vacío.&lt;/li> &lt;li>Los interlocutores de las llamadas y los mensajes se pueden añadir a los contactos mediante toques prolongados.&lt;/li> &lt;li>También se pueden utilizar toques prolongados para eliminar llamadas, chats, mensajes y contactos.&lt;/li> &lt;li>Tocar/tocar prolongadamente el icono del contacto puede utilizarse para instalar/eliminar el avatar de la imagen.&lt;/li> &lt;/ul> &lt;h2>Problemas conocidos&lt;/h2> &lt;ul> &lt;li>Debido a las limitaciones de las bibliotecas subyacentes, no se admiten múltiples interfaces de red activas simultáneamente. El orden de preferencia de las interfaces de red activas es VPN, Internet, otra.&lt;/li> &lt;li>En las videollamadas, el dispositivo debe mantenerse en modo horizontal girado 90 grados a la izquierda desde la orientación vertical.&lt;/li> &lt;li>La autovista no se muestra correctamente cuando el flujo de vídeo es sendonly.&lt;/li> &lt;ul> &lt;h2>Código fuente&lt;/h2> El código fuente está disponible en &lt;a href=https://github.com/juha-h/baresip-studio>GitHub&lt;/a>, donde también se pueden reportar problemas. &lt;h2>Licencias&lt;/h2> &lt;ul> &lt;li>&lt;b>BSD-3-Clause&lt;/b> excepto las siguientes:&lt;/li> &lt;li>&lt;b>Apache 2.0&lt;/b> códec AMR y seguridad TLS&lt;/li> &lt;li>&lt;b>LGPL 2.1&lt;/b> G.722 y G.726 &lt;/li> &lt;li>&lt;b>AGPLv4&lt;/b> cifrado de medios ZRTP&lt;/li> &lt;li>&lt;b>GNU GPLv2&lt;/b> códecs H.264 y H.265&lt;/li> &lt;li>&lt;b>GNU GPLv3&lt;/b> códec G.729&lt;/li> &lt;li>&lt;b>AOMedia&lt;/b> códec AV1&lt;/li> &lt;/ul> &lt;li></string>
+    <string name="about_title">Acerca de Baresip</string>
+    <string name="about_title_plus">Acerca de baresip+</string>
+    <string name="accept">Aceptar</string>
+    <string name="account">Cuenta</string>
+    <string name="account_allocation_failure">Error al asignar la cuenta nueva.</string>
+    <string name="account_exists">Ya existe la cuenta «%1$s».</string>
+    <string name="accounts">Cuentas</string>
+    <string name="accounts_help">Cuando se crea una nueva cuenta, el número de puerto de la cuenta y el protocolo de transporte pueden ser dados opcionalmente: &lt;usuario>@&lt;dominio>[:&lt;puerto>][;transporte=udp|tcp|tls]. Si se indica &lt;puerto> y no se indica el protocolo de transporte, el protocolo de transporte será por defecto udp. Si no se da &lt;puerto> y se da el protocolo de transporte, &lt;puerto> es por defecto 5060 o 5061 (TLS). Si no se indica ninguno de los dos y no se especifica ningún proxy de salida, el registrador de la cuenta (si lo hay) se determina únicamente a partir de la información DNS del dominio.</string>
+    <string name="add">Añadir</string>
+    <string name="add_contact">Añadir contacto</string>
+    <string name="aec">Cancelación de eco acústico</string>
+    <string name="aec_extended_filter">Filtro extendido AEC</string>
+    <string name="aec_extended_filter_help">Si está marcada, la cancelación de eco está utilizando el filtro extendido.</string>
+    <string name="aec_help">Si está marcada, se intenta la cancelación del eco en el audio de la llamada.</string>
+    <string name="alert">Alerta</string>
+    <string name="allow_video">¿Aceptar el envío y la recepción de vídeo con \'%1$s\'\?</string>
+    <string name="allow_video_recv">¿Aceptar la recepción de vídeo de \'%1$s\'\?</string>
+    <string name="allow_video_send">¿Acepta el envío de video a \'%1$s\'\?</string>
+    <string name="and">y</string>
+    <string name="android_contact_help">Si se marca, este contacto está disponible también en los contactos de Android.</string>
+    <string name="answer">Contestar</string>
+    <string name="answer_mode">Modo de contestación</string>
+    <string name="answer_mode_help">Selecciona cómo se contestan las llamadas entrantes.</string>
+    <string name="audio">Audio</string>
+    <string name="audio_codecs">Códecs de audio</string>
+    <string name="audio_codecs_help">Lista de códecs de audio compatibles en orden de prioridad</string>
+    <string name="audio_modules_help">Las cuentas pueden utiilzar códecs de audio provistos por los módulos comprobados.</string>
+    <string name="audio_modules_title">Módulos de audio</string>
+    <string name="authentication_password">Contraseña de autenticación</string>
+    <string name="authentication_password_help">Contraseña de autenticación de hasta 64 caracteres. Si se proporciona el nombre de usuario, pero no la contraseña, esta se le pedirá cuando inicie baresip.</string>
+    <string name="authentication_username">Nombre de usuario de autenticación</string>
+    <string name="authentication_username_help">Nombre de usuario de autenticación si se requiere la autenticación de las solicitudes SIP. El valor por defecto es el nombre de usuario de la cuenta.</string>
+    <string name="auto">Automático</string>
+    <string name="backed_up">Los datos de la aplicación han sido respaldados en el archivo \'%1$s\'. En las versiones de Android 9 e inferiores, el archivo está en la carpeta Download.</string>
+    <string name="backup">Copia de respaldo</string>
+    <string name="backup_failed">Ha fallado la copia de seguridad de los datos de la aplicación en el archivo \'%1$s\'. Compruebe Apps → baresip → Permisos → Almacenamiento.</string>
+    <string name="bottomsheet_action_expand_halfway">Desplegar hasta la mitad</string>
+    <string name="call">Llamada</string>
+    <string name="call_already_active">Ya tiene una llamada activa.</string>
+    <string name="call_closed">La llamada está cerrada</string>
+    <string name="call_failed">Llamada fallida</string>
+    <string name="call_history">Historial de llamadas</string>
+    <string name="call_info">Información de llamada</string>
+    <string name="call_info_not_available">No hay información disponible</string>
+    <string name="call_is_secure">¡Esta llamada es SEGURA y el compañero está VERIFICADO!
+        ¿Quieres desverificar al compañero?</string>
+    <string name="call_not_secure">¡Esta llamada NO es segura!</string>
+    <string name="call_transfer">Transferencia de llamadas</string>
+    <string name="callee">Destinatario</string>
+    <string name="calls_add_delete_question">¿Quiere añadir a «%1$s» a los contactos o eliminar %2$s del historial de llamadas\?</string>
+    <string name="calls_call">llamar</string>
+    <string name="calls_call_message_question">¿Quiere llamar o enviar un mensaje a «%1$s»\?</string>
+    <string name="calls_calls">llamadas</string>
+    <string name="calls_delete_question">¿Quiere eliminar «%1$s» %2$s del historial de llamadas\?</string>
+    <string name="cancel">Cancelar</string>
+    <string name="character_counter_content_description">Caracteres introducidos: %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Límite de caracteres superado (%1$d de %2$d)</string>
+    <string name="chat">Mensajes de chat</string>
+    <string name="chat_with">Chatear con %1$s</string>
+    <string name="chats">Historial de chat</string>
+    <string name="clear_text_end_icon_content_description">Borrar texto</string>
+    <string name="codecs">Códecs</string>
+    <string name="config_restart">Es necesario reiniciar Baresip para que surta efecto la configuración nueva. ¿Quiere reiniciar ahora\?</string>
+    <string name="configuration">Configuración</string>
+    <string name="confirmation">Confirmación</string>
+    <string name="contact">Contacto</string>
+    <string name="contact_action_question">¿Quieres llamar o enviar un mensaje a \'%1$s\'?</string>
+    <string name="contact_already_exists">Ya existe el contacto «%1$s».</string>
+    <string name="contact_delete_question">¿Quiere eliminar el contacto «%1$s»\?</string>
+    <string name="contact_name">Nombre</string>
+    <string name="contacts">Contactos</string>
+    <string name="contacts_exceeded">Su número máximo de contactos %1$d se ha excedido.</string>
+    <string msgid="6083905920877235314" name="copy">"Copiar"</string>
+    <string name="dark_theme">Tema oscuro</string>
+    <string name="dark_theme_help">Forzar el tema de la pantalla oscura</string>
+    <string name="debug">Depurar</string>
+    <string name="debug_help">Si se marca, proporciona mensajes de registro de nivel de depuración e información a Logcat.</string>
+    <string name="decrypt_password">Contraseña para descifrar</string>
+    <string name="default_account">Cuenta predeterminada</string>
+    <string name="default_account_help">Si está marcada, esta cuenta se selecciona cuando se inicia baresip.
+    </string>
+    <string name="default_call_volume">Volumen de llamada predeterminado</string>
+    <string name="default_call_volume_help">Si está configurado, el volumen de audio predeterminado de la llamada en escala 1–10.</string>
+    <string name="delete">Eliminar</string>
+    <string name="delete_account">¿Quiere eliminar la cuenta «%1$s»\?</string>
+    <string name="delete_chats">Eliminar</string>
+    <string name="delete_chats_alert">¿Quiere eliminar el historial de chat de la cuenta «%1$s»\?</string>
+    <string name="delete_history">Eliminar</string>
+    <string name="delete_history_alert">¿Quiere eliminar el historial de llamadas de la cuenta «%1$s»\?</string>
+    <string name="deny">Denegar</string>
+    <string name="dialpad">Teclado</string>
+    <string name="disable_history">Desactivar</string>
+    <string name="display_name">Nombre para mostrar</string>
+    <string name="display_name_help">Nombre (si lo hay) utilizado en el URI de origen de las solicitudes salientes.</string>
+    <string name="dns_servers">Servidores DNS</string>
+    <string name="dns_servers_help">Lista separada por comas de direcciones de servidores DNS. Si no se da,
+        Las direcciones del servidor DNS se obtienen dinámicamente del sistema. Cada dirección DNS es de forma
+        \'ip:port\' o \'ip\'. Si se omite el puerto, el valor predeterminado es 53. Si ip es una dirección IPv6 y
+        también se da puerto, IP debe
+        estar escrito entre corchetes []. Como ejemplo, lista \'8.8.8.8:53,[2001:4860:4860::8888]:53\'
+        apunta a direcciones IPv4 e IPv6 de servidores DNS públicos de Google.</string>
+    <string name="dtmf">DTMF</string>
+    <string name="dtmf_inband">Eventos RTP en banda</string>
+    <string name="dtmf_info">Solicitudes SIP INFO</string>
+    <string name="dtmf_mode">Modo DTMF</string>
+    <string name="dtmf_mode_help">Selecciona cómo se envían los tonos DTMF 0-9, #, * y A-D.</string>
+    <string name="duration">Duración</string>
+    <string name="edit">Editar</string>
+    <string name="enable_history">Activar</string>
+    <string name="encrypt_password">Contraseña de cifrado</string>
+    <string name="error">Error</string>
+    <string name="error_icon_content_description">Error</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Ajustes avanzados"</string>
+    <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
+    <string name="failed_to_load_module">Falló la carga del módulo.</string>
+    <string name="failed_to_set_dns_servers">Error al establecer servidores DNS</string>
+    <string name="hangup">Colgar</string>
+    <string name="help">Ayuda</string>
+    <string name="hold">Retención/desconexión de llamadas</string>
+    <string name="icon_content_description">Icono del cuadro de diálogo</string>
+    <string name="incoming_call_from">Llamada entrante de</string>
+    <string name="incoming_call_from_dots">Llamada entrante de …</string>
+    <string name="info">Información</string>
+    <string name="invalid_aor">usuario@dominio[:puerto][;transport=udp|tcp|tls] «%1$s» no válido</string>
+    <string name="invalid_authentication_password">Contraseña incorrecta%1$s</string>
+    <string name="invalid_authentication_username">Nombre de usuario no válido \'%1$s\'</string>
+    <string name="invalid_chat_peer_uri">URI de SIP no válido</string>
+    <string name="invalid_contact">El nombre de contacto «%1$s» no es válido</string>
+    <string name="invalid_contact_uri">URI de SIP no válido</string>
+    <string name="invalid_display_name">Nombre de pantalla inválido \'%1$s\'</string>
+    <string name="invalid_dns_servers">Servidores DNS no válidos</string>
+    <string name="invalid_listen_address">Dirección de escucha no válida</string>
+    <string name="invalid_opus_bitrate">Tasa de bits de Opus no válida</string>
+    <string name="invalid_opus_packet_loss">Porcentaje de pérdida de paquetes opus no válido</string>
+    <string name="invalid_proxy_server_uri">URI del servidor proxy inválido \'%1$s\'</string>
+    <string name="invalid_sip_uri">URI de SIP no válido \'%1$s\'</string>
+    <string name="invalid_stun_password">Contraseña inválida \'%1$s\'</string>
+    <string name="invalid_stun_server">URI del servidor STUN/TURN inválido \'%1$s\'</string>
+    <string name="invalid_stun_username">Nombre de usuario inválido \'%1$s\'</string>
+    <string name="invalid_voicemail_uri">URI de buzón de voz inválido \'%1$s\'</string>
+    <string name="item_view_role_description">Pestaña</string>
+    <string name="listen">Escuchar</string>
+    <string name="listen_address">Dirección de escucha</string>
+    <string name="listen_address_help">Dirección IP y puerto de formulario \'address:port\' en el que escucha baresip
+        para solicitudes SIP entrantes. Si la dirección IP es una dirección IPv6, debe escribirse dentro
+        soportes []. La dirección IPv4 0.0.0.0 o la dirección IPv6 [::] hace que la escucha de baresip sea
+        Direcciones disponibles. Si se deja vacío (predeterminado de fábrica), baresip escucha en el puerto 5060 de
+        todas las direcciones disponibles.
+    </string>
+    <string name="long_chat_question">¿Quieres eliminar el chat con un compañero? \'%1$s\' o
+        agregar pares a los contactos?</string>
+    <string name="long_message_question">¿Quiere eliminar el mensaje o añadir el par «%1$s» a los contactos\?</string>
+    <string name="manual">Manual</string>
+    <string name="material_clock_toggle_content_description">Selecciona AM o PM</string>
+    <string name="material_hour_selection">Seleccionar hora</string>
+    <string name="material_hour_suffix">%1$s en punto</string>
+    <string name="material_minute_selection">Seleccionar minutos</string>
+    <string name="material_minute_suffix">%1$s minutos</string>
+    <string name="material_timepicker_am">A.M.</string>
+    <string name="material_timepicker_clock_mode_description">Cambia al modo de reloj para escribir la hora.</string>
+    <string name="material_timepicker_hour">Hora</string>
+    <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">P.M.</string>
+    <string name="material_timepicker_select_time">Seleccionar la hora</string>
+    <string name="material_timepicker_text_input_mode_description">Cambia al modo de introducción de texto para escribir la hora.</string>
+    <string name="media_encryption">Cifrado de medios</string>
+    <string name="media_encryption_help">Selecciona el protocolo de cifrado de transporte de medios (si lo hay).
+\n • ZRTP (recomendado) significa que la negociación de cifrado de medios de extremo a extremo de ZRTP se intenta después que
+            la llamada ha sido establecida.
+\n • DTLS-SRTPF significa que UDP / TLS / RTP / SAVPF se ofrece en llamadas salientes y que RTP / SAVP,
+            RTP / SAVPF, UDP / TLS / RTP / SAVP o UDP / TLS / RTP / SAVPF se usa si se ofrece en la llamada entrante.
+\n • SRTP-MANDF significa que RTP / SAVPF se ofrece en llamadas salientes y se requiere en llamadas entrantes.
+\n • SRTP-MAND significa que RTP / SAVP se ofrece en llamadas salientes y se requiere en llamadas entrantes.
+\n • SRTP significa que RTP / AVP se ofrece en llamadas salientes y que se utiliza RTP / SAVP o RTP / SAVPF
+            si se ofrece en llamada entrante.
+    </string>
+    <string name="media_nat">Media NAT transversal</string>
+    <string name="media_nat_help">Selecciona el protocolo transversal de NAT media (si lo hay). Las posibles opciones son STUN
+        (Utilidades de recorrido de sesión para NAT, RFC 5389) e ICE (conectividad interactiva
+        Establecimiento, RFC 5245).
+    </string>
+    <string name="message_failed">Ha fallado</string>
+    <string name="message_from">Mensaje de</string>
+    <string name="messages">Mensajes</string>
+    <string name="mic">Micrófono encendido/apagado</string>
+    <string name="missed_call_from">Llamada perdida de</string>
+    <string name="mtrl_badge_numberless_content_description">Notificación nueva</string>
+    <string name="mtrl_chip_close_icon_content_description">Retirar %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Más de %1$d notificaciones nuevas</string>
+    <string name="mtrl_picker_a11y_next_month">Cambiar al mes siguiente</string>
+    <string name="mtrl_picker_a11y_prev_month">Cambiar al mes anterior</string>
+    <string name="mtrl_picker_announce_current_selection">Selección actual: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selecciona una fecha</string>
+    <string name="mtrl_picker_date_header_unselected">Fecha seleccionada</string>
+    <string name="mtrl_picker_day_of_week_column_header">Columna de días: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Formato no válido.</string>
+    <string name="mtrl_picker_invalid_format_example">Ejemplo: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Usar: %1$s</string>
+    <string name="mtrl_picker_invalid_range">El periodo no es válido.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Ir al año %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fuera del periodo válido: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Fecha de inicio–%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s–Fecha de finalización</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selecciona un periodo</string>
+    <string name="mtrl_picker_range_header_unselected">Fecha de inicio–Fecha de finalización</string>
+    <string name="mtrl_picker_save">Guardar</string>
+    <string name="mtrl_picker_text_input_date_hint">Fecha</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Fecha de finalización</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Fecha de inicio</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambiar al modo de introducción Calendario</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Toca para seleccionar un día</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo de introducción Texto</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Toca para seleccionar un año</string>
+    <string name="new_account">Nueva cuenta</string>
+    <string name="new_chat_peer">Nuevo compañero de chat</string>
+    <string name="new_contact">Contacto nuevo</string>
+    <string name="new_message">Mensaje nuevo</string>
+    <string name="new_messages">mensajes nuevos</string>
+    <string name="no">No</string>
+    <string name="no_calls">No es posible hacer o responder llamadas sin el permiso Micrófono.</string>
+    <string name="no_cameras">No tiene ninguna cámara de video compatible.</string>
+    <string name="no_messages">No tiene mensajes</string>
+    <string name="no_video_calls">Otorga permiso a la \"Cámara\" para realizar o contestar videollamadas.</string>
+    <string msgid="6573031135582639649" name="not_set">"Sin establecer"</string>
+    <string name="notice">Aviso</string>
+    <string name="ok">Aceptar</string>
+    <string name="old_messages">mensajes antiguos</string>
+    <string name="one_new_message">un mensaje nuevo</string>
+    <string name="one_old_message">un mensaje antiguo</string>
+    <string name="opus_bit_rate">Tasa de bits de Opus</string>
+    <string name="opus_bit_rate_help">Velocidad de bits máxima promedio utilizada por la transmisión de audio Opus.
+        Los valores válidos son 6000-510000. El valor predeterminado de fábrica es 28000.</string>
+    <string name="opus_packet_loss">Pérdida de paquetes de Opus esperada</string>
+    <string name="opus_packet_loss_help">Porcentaje esperado de pérdida de paquetes de transmisión de audio Opus, de 0 a 100. Por defecto 0, desactiva Opus Forward Error Correction (FEC).</string>
+    <string name="outbound_proxies">Proxies salientes</string>
+    <string name="outbound_proxies_help">URI SIP de uno o dos proxies que deben utilizarse al enviar las solicitudes. Si se dan dos, las solicitudes de REGISTRO se envían a ambos y las demás solicitudes se envían a uno que responda. Si no se indica ningún proxy de salida, las solicitudes se envían basándose en la búsqueda del registro DNS NAPTR/SRV/A de la parte de host del URI del destinatario. Si la parte del host del URI SIP es una dirección IPv6, la dirección debe escribirse entre corchetes [].
+\nEjemplos:
+\n - sip:ejemplo.com:5061;transporte=tls
+\n • sip:[2001:67c:223:777::10];transport=tcp
+\n • sip:192.168.43.50:443;transport=wss</string>
+    <string name="outgoing_call_to_dots">Llamada saliente a…</string>
+    <string name="password">Contraseña</string>
+    <string name="password_toggle_content_description">Mostrar contraseña</string>
+    <string name="peer_not_verified">¡Esta llamada es SEGURA, pero el par NO está verificado!</string>
+    <string name="prefer_ipv6_media">Preferir medios IPv6</string>
+    <string name="prefer_ipv6_media_help">Si está marcada, ofrece utilizar el protocolo de medios IPv6 (si está disponible) cuando el protocolo de medios del par no puede determinarse automáticamente.</string>
+    <string msgid="6685851473431805375" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" se ha copiado en el portapapeles."</string>
+    <string name="quit">Salir</string>
+    <string name="rate">Tasa</string>
+    <string name="read_ca_certs_error">Error al leer el archivo \'ca_certs.crt\'.</string>
+    <string name="read_cert_error">Fallo al leer el archivo \'cert.pem\'.</string>
+    <string name="register">Registrar</string>
+    <string name="register_help">Si está marcado, el registro está habilitado y las solicitudes de REGISTRO se envían a
+        Intervalos de 12 minutos.
+    </string>
+    <string name="registering_failed">Registro de \`%1$s\` ha fallado.</string>
+    <string name="reject">Rechazar</string>
+    <string name="reset">Reiniciar</string>
+    <string name="reset_config">Restablecer los valores de fábrica</string>
+    <string name="reset_config_alert">¿Estás seguro de que quieres restablecer los valores de fábrica\?</string>
+    <string name="reset_config_help">Si está marcado, la configuración se restablece
+        a los valores predeterminados de fábrica.</string>
+    <string name="restart">Reiniciar</string>
+    <string name="restart_request">Solicitud de reinicio</string>
+    <string name="restore">Restaurar</string>
+    <string name="restore_failed">No se han podido restaurar los datos de la aplicación. Comprueba que has dado la contraseña correcta. En las versiones de Android 9 e inferiores, compruebe también Apps → baresip → Permisos → Almacenamiento y que el archivo \'%1$s\' existe en la carpeta Download.</string>
+    <string name="restored">Se restauraron los datos de la aplicación. Baresip necesita reiniciarse. ¿Quiere reiniciar ahora\?</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Buscar"</string>
+    <string name="send">Enviar</string>
+    <string name="send_message">Enviar mensaje</string>
+    <string name="sending_failed">Envío de mensaje fallido</string>
+    <string name="short_chat_question">¿Quiere eliminar el chat con «%1$s»\?</string>
+    <string name="short_message_question">¿Quiere eliminar el mensaje\?</string>
+    <string name="show_password">Mostrar contraseña</string>
+    <string name="sip_trace">Seguimiento SIP</string>
+    <string name="sip_trace_help">Si está marcada y si la opción Debug está marcada, proporciona también la petición SIP y el seguimiento de la respuesta a Logcat. Desmarcado automáticamente al iniciar baresip.</string>
+    <string name="sip_uri_of_another_proxy_server">SIP URI de otro servidor proxy</string>
+    <string name="sip_uri_of_proxy_server">SIP URI del servidor proxy</string>
+    <string name="start_automatically">Comenzar automáticamente</string>
+    <string name="start_automatically_help">Si está marcado, baresip se inicia automáticamente después de que el dispositivo se (re)inicia.</string>
+    <string name="start_failed">Baresip no se ha podido iniciar. Esto puede deberse a un valor de configuración no válido. Compruebe la dirección de escucha, el archivo de certificado TLS y el archivo TLS CA. Luego reinicie baresip.</string>
+    <string name="status">Status</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stun_password">Contraseña STUN/TURN</string>
+    <string name="stun_password_help">Contraseña si lo requiere el servidor STUN/TURN</string>
+    <string name="stun_server">Servidor STUN / TURN</string>
+    <string name="stun_server_help">Un URI de servidor STUN/TURN de la forma scheme:host[:port][\?transport=udp|tcp], donde scheme es \'stun\', \'stuns\', \'turn\', o \'turns\'. El servidor STUN predeterminado de fábrica para los protocolos STUN e ICE es \'stun:stun.l.google.com:19302\' que apunta al servidor STUN público de Google. No hay servidor TURN por defecto.</string>
+    <string name="stun_server_uri">URI del servidor STUN/TURN</string>
+    <string name="stun_username">Nombre de usuario STUN/TURN</string>
+    <string name="stun_username_help">Nombre de usuario si lo requiere el servidor STUN / TURN</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="tap_to_start">Pulse para iniciar la aplicación</string>
+    <string name="tls_ca_file">Archivo de CA de TLS</string>
+    <string name="tls_ca_file_help">Si está marcada, se ha cargado o se cargará un archivo que contiene los certificados TLS de las autoridades de certificación necesarias. En las versiones de Android 9 e inferiores, se carga un archivo llamado \'ca_certs.crt\' desde la carpeta Download.</string>
+    <string name="tls_certificate_file">Archivo de certificado TLS</string>
+    <string name="tls_certificate_file_help">Si se marca, se ha cargado o se cargará un archivo que contiene el certificado TLS y la clave privada de esta instancia de baresip. En las versiones de Android 9 e inferiores, se carga un archivo llamado \'cert.pem\' desde la carpeta Download. Por razones de seguridad, elimine el archivo después de cargarlo.</string>
+    <string name="today">Hoy</string>
+    <string name="transfer">Transferir</string>
+    <string name="transfer_destination">Destino de transferencia</string>
+    <string name="transfer_failed">Ha fallado la transferencia</string>
+    <string name="transfer_request">Solicitud de transferencia</string>
+    <string name="transfer_request_query">¿Acepta transferir la llamada a «%1$s»\?</string>
+    <string name="transfer_request_to">Solicitud de transferencia de llamada a</string>
+    <string name="transferring_call_to_dots">Transfiriendo llamada a …</string>
+    <string name="unverify">No verificar</string>
+    <string name="user_domain">usuario@dominio</string>
+    <string name="user_id">Id. de usuario</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"DESACTIVADA"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"ACTIVADO"</string>
+    <string name="verify">Verificar la solicitud</string>
+    <string name="verify_sas">¿Quieres verificar SAS &lt;%1$s> &lt;%2$s>?</string>
+    <string name="verify_server">Verificar los certificados del servidor</string>
+    <string name="verify_server_error">Los certificados del servidor no pueden ser verificados sin el archivo TLS CA.</string>
+    <string name="verify_server_help">Si se marca, baresip verifica los certificados TLS del Agente de Usuario SIP y de los Servidores Proxy SIP cuando se utiliza el transporte TLS. Si se marca, también se debe cargar el archivo TLS CA.</string>
+    <string name="video_call">Videollamada</string>
+    <string name="video_codecs">Codecs de vídeo</string>
+    <string name="video_codecs_help">Lista de códecs de audio compatibles en orden de prioridad</string>
+    <string name="video_request">Solicitud de vídeo</string>
+    <string name="video_size">Tamaño del fotograma de vídeo</string>
+    <string name="video_size_help">Tamaño de los cuadros de vídeo transmitidos (ancho x alto). El valor predeterminado de fábrica es 800x600.</string>
+    <string name="voicemail">Mensaje de voz</string>
+    <string name="voicemail_messages">Mensajes de correo de voz</string>
+    <string name="voicemail_uri">URI de correo de voz</string>
+    <string name="voicemain_uri_help">URI de SIP para comprobar los mensajes de correo de voz. Si se deja vacío, no se suscribirá a los mensajes de correo de voz (indicaciones de mensaje en espera).</string>
+    <string name="yes">Sí</string>
+    <string name="you">Usted</string>
+    <string name="you_have">Tiene</string>
+    <string name="your_name">Su nombre</string>
+</resources>

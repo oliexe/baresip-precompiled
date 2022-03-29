@@ -1,0 +1,538 @@
+[
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_alert_title.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/alert_title.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_stat_delete.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xxxhdpi/ic_stat_delete.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_stat.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-mdpi/ic_stat.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/menu_speaker_icon.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/menu/speaker_icon.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_check.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-mdpi/ic_action_check.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_stat_save.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xhdpi/ic_stat_save.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/menu_chats_menu.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/menu/chats_menu.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_send.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/send.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_stat_delete.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-hdpi/ic_stat_delete.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_status_notification.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/status_notification.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_speaker_off.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/speaker_off.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_stat_phone_missed.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xhdpi/ic_stat_phone_missed.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_message_in_bg.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/message_in_bg.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_activity_account.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_account.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_stat_phone_missed.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-hdpi/ic_stat_phone_missed.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_stat_delete.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-mdpi/ic_stat_delete.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_call_row.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/call_row.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_stat_message.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-mdpi/ic_stat_message.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_message_out_bg.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/message_out_bg.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_resume.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/resume.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_activity_chat.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_action_remove.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/action_remove.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_call_green.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/call_green.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_stat_call_end.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-hdpi/ic_stat_call_end.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_stat_call.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xxxhdpi/ic_stat_call.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_contacts.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/contacts.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_action_check.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xxxhdpi/ic_action_check.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_activity_contacts.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_contacts.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_message.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_mic_on.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/mic_on.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_call_transfer.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/call_transfer.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_dot_green.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/dot_green.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_stat_call_end.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xxxhdpi/ic_stat_call_end.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_check.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-hdpi/ic_action_check.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_stat_message.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xhdpi/ic_stat_message.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_stat_reply.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xhdpi/ic_stat_reply.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_stat_message.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xxhdpi/ic_stat_message.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_check.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xhdpi/ic_action_check.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_call_detail_row.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/call_detail_row.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_activity_chats.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_chats.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_stat_save.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xxhdpi/ic_stat_save.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_stat.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xxhdpi/ic_stat.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/raw_callwaiting.wav.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/raw/callwaiting.wav"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_activity_codecs.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_codecs.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_stat_call.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-hdpi/ic_stat_call.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_messages.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/messages.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_action_call.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-anydpi/ic_action_call.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_speaker_on.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/speaker_on.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_account_row.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/account_row.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-night_message_out_bg.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-night/message_out_bg.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_activity_contact.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_contact.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_stat_save.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-hdpi/ic_stat_save.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_activity_audio.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_audio.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_dot_white.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/dot_white.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_calls_missed.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/calls_missed.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_call.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/call.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_android_uri_row.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/android_uri_row.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_arrow_down_red.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/arrow_down_red.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_edit.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/edit.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_activity_about.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_stat_call.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xxhdpi/ic_stat_call.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_hangup.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/hangup.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_account_spinner.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/account_spinner.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_stat_delete.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xhdpi/ic_stat_delete.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_call_transfer_execute.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/call_transfer_execute.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_stat.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-hdpi/ic_stat.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_stat_reply.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-hdpi/ic_stat_reply.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_activity_calls.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_calls.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/menu_call_icon.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/menu/call_icon.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-night_spinner_bg.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-night/spinner_bg.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_stat_delete.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xxhdpi/ic_stat_delete.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/menu_mic_icon.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/menu/mic_icon.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_box_red.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/box_red.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_box_green.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/box_green.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_stat_phone_missed.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-mdpi/ic_stat_phone_missed.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_stat_call_end.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-mdpi/ic_stat_call_end.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_voicemail_new.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/voicemail_new.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_stat_phone_missed.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xxhdpi/ic_stat_phone_missed.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_dialpad_on.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/dialpad_on.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_stat_call_end.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xxhdpi/ic_stat_call_end.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_arrow_up_green.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/arrow_up_green.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_activity_config.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_config.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_arrow_up_red.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/arrow_up_red.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-night_message_in_bg.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-night/message_in_bg.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_messages_unread.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/messages_unread.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_circle.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/circle.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_info.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/info.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_password_dialog.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/password_dialog.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_activity_call_details.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_call_details.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_dot_yellow.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/dot_yellow.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/raw_ringback.wav.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/raw/ringback.wav"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_voicemail.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/voicemail.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_contact_row.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/contact_row.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_baresip.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/baresip.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_activity_android_contact.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_android_contact.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_stat_message.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-hdpi/ic_stat_message.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_stat_reply.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xxhdpi/ic_stat_reply.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_check.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xxhdpi/ic_action_check.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_stat_reply.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xxxhdpi/ic_stat_reply.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_stat_reply.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-mdpi/ic_stat_reply.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/menu_calls_menu.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/menu/calls_menu.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/menu_main_menu.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_stat_phone_missed.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xxxhdpi/ic_stat_phone_missed.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_chat_row.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/chat_row.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/menu_check_icon.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/menu/check_icon.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_stat_save.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-mdpi/ic_stat_save.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_stat.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xhdpi/ic_stat.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_activity_accounts.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/activity_accounts.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_plus.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/plus.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/layout_call_transfer_dialog.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/layout/call_transfer_dialog.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_stat_save.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xxxhdpi/ic_stat_save.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_person_image.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/person_image.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_arrow_up_yellow.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/arrow_up_yellow.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_box_yellow.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/box_yellow.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/menu_accounts_menu.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/menu/accounts_menu.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_calls.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/calls.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/raw_busy.wav.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/raw/busy.wav"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_spinner_bg.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/spinner_bg.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_message.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/message.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_dialpad_off.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/dialpad_off.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_stat_call_end.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xhdpi/ic_stat_call_end.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_dot_red.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/dot_red.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_arrow_down_green.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/arrow_down_green.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_stat_message.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xxxhdpi/ic_stat_message.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_stat_call.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-mdpi/ic_stat_call.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_mic_off.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/mic_off.xml"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_stat_call.png.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable-xhdpi/ic_stat_call.png"
+    },
+    {
+        "merged": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/build/intermediates/merged_res/debug/drawable_hold.xml.flat",
+        "source": "/Users/ondrejrehacek/Git/Acrios/zptvox/app/src/main/res/drawable/hold.xml"
+    }
+]
